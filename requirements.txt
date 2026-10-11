@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain_gemini
+langchain_groq
+python_dotenv
+langchain_google_genai
+langgraph
+langsmith
+langchain-tavily
+langchain-openrouter
+langchain-mcp-adapters
+mcp
